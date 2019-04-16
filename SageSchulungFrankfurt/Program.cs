@@ -8,8 +8,9 @@ namespace SageSchulungFrankfurt
 {
     class Program
     {
-        public static void Main(string[] args)
-        {
+        static void Main(string[] args)
+        { 
+            
         }
     }
 }
